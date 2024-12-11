@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">Projeto</h2>
+<h2 align="left">Projetos</h2>
 
 ###
 
